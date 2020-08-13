@@ -1,0 +1,8 @@
+{
+    "short_name": "Big data",
+    "name": "Big data phiêu lưu ký",
+    "start_url": "/",
+    "background_color": "#3F51B5",
+    "display": "standalone", 
+    "theme_color": "#3367D6"
+}
