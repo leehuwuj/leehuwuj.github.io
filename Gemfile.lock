@@ -92,7 +92,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.2.2)
   jekyll-feed (~> 0.12)
-  jekyll-theme-so-simple
+  jekyll-theme-so-simple (~> 3.2.0)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
