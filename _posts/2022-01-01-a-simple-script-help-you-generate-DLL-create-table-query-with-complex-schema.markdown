@@ -2,7 +2,8 @@
 layout: post
 title:  "A simple script to help you generate DLL create table query with complex schema"
 date:   2022-01-01 12:00:00 +0700
-categories: data hive
+categories: data-engineering
+tag: [hive,spark]
 ---
 
 Sometime, the catalog or your data lake manager tool do not support to create table from data file automatically then you need to specify a DLL query which following with defined schema of data.  
