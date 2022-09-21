@@ -34,7 +34,7 @@ Because it’s an open-source project for community, so the available features a
 
 ### In user view:
 
-<img src="images/self-service-airflow/user-view.png" width="200" height="200" class="align-center"/>
+<img src="/images/self-service-airflow/user-view.png" width="200" height="200" class="align-center"/>
 
 - Users can login to Airflow using their company account.
 - Each user is assigned to different roles which are already linked to Airflow resources.
@@ -47,7 +47,7 @@ Because it’s an open-source project for community, so the available features a
 
 ### In technical view:
 
-<img src="images/self-service-airflow/airflow-architecture.png" width="200" height="200" class="align-center"/>
+<img src="/images/self-service-airflow/airflow-architecture.png" width="200" height="200" class="align-center"/>
 
 At the operation zone, we are using Gitlab as a place to store airflow deployment helm chart which helps us easily to manage the feature deployment across difference k8s environment. Our Helm chart is forked from Airflow official helm chart, but it is customized to integrate with our k8s deployment policy.
 
