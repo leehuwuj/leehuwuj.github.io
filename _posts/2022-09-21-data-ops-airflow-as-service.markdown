@@ -2,7 +2,7 @@
 layout: post
 title:  "Data Ops: Implement Airflow as Service"
 date:   2022-06-13 13:00:00 +0700
-categories: engineering
+categories: data-engineering
 tag: [devops,docker]
 ---
 
