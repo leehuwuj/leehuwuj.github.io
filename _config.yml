@@ -25,7 +25,7 @@ email: leehuwuj@gmail.com
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://leehuwuj.me"
+url: "https://huu.dev"
 # logo: "images/leehuwuj.jpg"
 twitter_username: leehuwuj
 github_username:  leehuwuj
@@ -46,6 +46,7 @@ tag_archive_path: "/tags/"
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # disqus:
 #   shortname: my_disqus_shortname
