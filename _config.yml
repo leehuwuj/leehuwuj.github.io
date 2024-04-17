@@ -23,6 +23,19 @@ defaults:
     heading: "Huu Le"
     subheading: "Diligent, Fun and Friendly"
 
+banner:
+  video: null             # Video banner source
+  loop: true              # Video loop
+  volume: 0               # Video volume (100% is 1.0)
+  start_at: 0             # Video start time
+  image: "http://localhost:4000/images/banner.png"             # Image banner source
+  opacity: 0.4            # Banner opacity (100% is 1.0)
+  background: "rgba(0, 0, 0, 0.5)"  # Banner background (Could be a image)
+  height: "640px"         # Banner default height
+  min_height: null        # Banner minium height
+  heading_style: "font-weight: bold;"     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
+  subheading_style: "font-weight: bold;"  # Custom subheading style (e.g. color: gold)
+
 yat:
   date_format: "%Y-%m-%d"
 
