@@ -12,6 +12,7 @@ gem "github-pages", group: :jekyll_plugins
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 gem "jekyll-theme-so-simple", "~> 3.2.0"
+gem "jekyll-theme-yat"
 gem 'jekyll-sitemap', '~> 1.4'
 gem 'nokogiri', '~> 1.16', '>= 1.16.4'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

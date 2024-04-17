@@ -3,6 +3,7 @@ layout: post
 title:  "Using docker container as a develop environment"
 date:   2022-06-13 13:00:00 +0700
 categories: engineering
+excerpt_image: /images/docker-container-develop-environment/vscode-docker-remote.png
 tag: [devops,docker]
 ---
 
