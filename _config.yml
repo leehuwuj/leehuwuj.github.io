@@ -27,6 +27,7 @@ yat:
   date_format: "%Y-%m-%d"
 
 google_analytics: G-NNXMJSV65Q
+enableDNT: "false"
 
 markdown: kramdown
 kramdown:
