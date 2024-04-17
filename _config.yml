@@ -28,7 +28,7 @@ banner:
   loop: true              # Video loop
   volume: 0               # Video volume (100% is 1.0)
   start_at: 0             # Video start time
-  image: "http://localhost:4000/images/banner.png"             # Image banner source
+  image: "http://huu.dev/images/banner.png"             # Image banner source
   opacity: 0.4            # Banner opacity (100% is 1.0)
   background: "rgba(0, 0, 0, 0.5)"  # Banner background (Could be a image)
   height: "640px"         # Banner default height
