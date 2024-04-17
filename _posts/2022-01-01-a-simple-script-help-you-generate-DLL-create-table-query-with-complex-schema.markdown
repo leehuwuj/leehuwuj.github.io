@@ -3,6 +3,7 @@ layout: post
 title:  "A simple script to help you generate DLL create table query with complex schema"
 date:   2022-01-01 12:00:00 +0700
 categories: data-engineering
+excerpt_image: NO_EXCERPT_IMAGE
 tag: [hive,spark]
 ---
 

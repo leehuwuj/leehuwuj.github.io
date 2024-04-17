@@ -2,6 +2,7 @@
 layout: post
 title:  "Chat to your dbt data project using LlamaIndex"
 date:   2024-02-25 13:00:00 +0700
+excerpt_image: /images/chat-dbt/llama-index-dbt.png
 categories: data-engineering
 tag: [llm,llama-index,dbt]
 ---
